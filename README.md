@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Coding](coding.gif)
 <!--
 **iamthewalrus67/iamthewalrus67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
