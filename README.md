@@ -5,8 +5,8 @@
 ### About
 Hi, my name is Bohdan and I am currently studying Computer Science at UCU (help me)
 - 👯 I’m looking to collaborate on litteraly anything. Just hmu
-- 💬 Ask me about anything (I will not answer)
-- 📫 How to reach me: call me maybe
+- 💬 Ask me about anything, I will try to answer (or not)
+- 📫 How to reach me: 📧 <bodya.ru02@gmail.com>, ✈️ [Telegram](https://t.me/iamthewalrus67)
 - 😄 Pronouns: vi/vim
 
 ### 👨‍💻 Languages 
