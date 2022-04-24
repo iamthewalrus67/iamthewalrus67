@@ -1,4 +1,4 @@
-<img align="right" width=180px src="coding.gif" alt="cat coding">
+<img align="right" width=180px src="img/coding.gif" alt="cat coding">
 
 ### Hi there 👋
 
@@ -7,7 +7,7 @@ Hi, my name is Bohdan and I am currently studying Computer Science at Ukrainian 
 - 💬 Ask me about anything, I will try to answer.
 - 📫 How to reach me: 📧 <bohdan.ruban02@gmail.com>, ✈️ [Telegram](https://t.me/iamthewalrus67)
 
-<img align="right" width=180px src="me_when_datarace.gif" alt="cat with glasses">
+<img align="right" width=180px src="img/me_when_datarace.gif" alt="cat with glasses">
 
 ### 👨‍💻 Languages 
 
