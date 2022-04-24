@@ -1,14 +1,16 @@
+<img align="right" width=180px src="coding.gif" alt="cat coding">
+
 ### Hi there 👋
-
-
-<img align="right" src="coding.gif" alt="coding">
 
 Hi, my name is Bohdan and I am currently studying Computer Science at Ukrainian Catholic University.
 - 👯 I’m looking to collaborate on litteraly anything.
 - 💬 Ask me about anything, I will try to answer.
 - 📫 How to reach me: 📧 <bohdan.ruban02@gmail.com>, ✈️ [Telegram](https://t.me/iamthewalrus67)
 
+<img align="right" width=180px src="me_when_datarace.gif" alt="cat with glasses">
+
 ### 👨‍💻 Languages 
+
 - 🐍 Python
 - ☕ Java
 - 🤔 C
