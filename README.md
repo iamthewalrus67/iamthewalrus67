@@ -15,9 +15,9 @@ Hi, my name is Bohdan and I am currently studying Computer Science at Ukrainian 
 
 - 🐍 Python
 - ☕ Java
-- 🤔 C
-- 💀 C++
+- 💀 C/C++
 - 💪 Rust
+- 🐿️ Go
 - 🤓 English
 
 
